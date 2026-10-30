@@ -1,0 +1,266 @@
+{
+  "frames": [
+    {
+      "id": "hazaerkeztem",
+      "image": "hazaerkeztem.png",
+      "version": 1,
+      "active": true,
+      "free": true,
+      "order": 12,
+      "name": {
+        "hu": "Hazaérkeztem",
+        "de": "Willkommen zu Hause",
+        "en": "Welcome home"
+      },
+      "title": {
+        "hu": "Hazaérkeztem!",
+        "de": "Endlich zu Hause!",
+        "en": "Welcome home!"
+      },
+      "category": {
+        "hu": "Születés",
+        "de": "Geburt",
+        "en": "Birth"
+      },
+      "titleKind": "FIXED",
+      "titleColor": "#B23A48",
+      "text": [
+        0.225,
+        0.796,
+        0.776,
+        0.917
+      ]
+    },
+    {
+      "id": "szaz_napos",
+      "image": "szaz_napos.png",
+      "version": 1,
+      "active": true,
+      "free": true,
+      "order": 15,
+      "name": {
+        "hu": "100 napos",
+        "de": "100 Tage",
+        "en": "100 days"
+      },
+      "title": {
+        "hu": "100 napos vagyok!",
+        "de": "Ich bin 100 Tage alt!",
+        "en": "I'm 100 days old!"
+      },
+      "category": {
+        "hu": "Hónapok",
+        "de": "Monate",
+        "en": "Months"
+      },
+      "titleKind": "FIXED",
+      "titleColor": "#1D5FA6",
+      "text": [
+        0.225,
+        0.796,
+        0.776,
+        0.917
+      ]
+    },
+    {
+      "id": "elso_mosoly",
+      "image": "elso_mosoly.png",
+      "version": 1,
+      "active": true,
+      "free": true,
+      "order": 31,
+      "name": {
+        "hu": "Első mosoly",
+        "de": "Erstes Lächeln",
+        "en": "First smile"
+      },
+      "title": {
+        "hu": "Első mosolyom!",
+        "de": "Mein erstes Lächeln!",
+        "en": "My first smile!"
+      },
+      "category": {
+        "hu": "Első alkalmak",
+        "de": "Erste Male",
+        "en": "Firsts"
+      },
+      "titleKind": "FIXED",
+      "titleColor": "#C27C0E"
+    },
+    {
+      "id": "elso_szo",
+      "image": "elso_szo.png",
+      "version": 1,
+      "active": true,
+      "free": false,
+      "order": 35,
+      "name": {
+        "hu": "Első szó",
+        "de": "Erstes Wort",
+        "en": "First word"
+      },
+      "title": {
+        "hu": "Első szavam!",
+        "de": "Mein erstes Wort!",
+        "en": "My first word!"
+      },
+      "category": {
+        "hu": "Első alkalmak",
+        "de": "Erste Male",
+        "en": "Firsts"
+      },
+      "titleKind": "FIXED",
+      "titleColor": "#2A9D8F"
+    },
+    {
+      "id": "mar_ulok",
+      "image": "mar_ulok.png",
+      "version": 1,
+      "active": true,
+      "free": false,
+      "order": 36,
+      "name": {
+        "hu": "Már ülök",
+        "de": "Ich sitze",
+        "en": "Sitting up"
+      },
+      "title": {
+        "hu": "Már egyedül ülök!",
+        "de": "Ich sitze schon allein!",
+        "en": "I can sit up!"
+      },
+      "category": {
+        "hu": "Első alkalmak",
+        "de": "Erste Male",
+        "en": "Firsts"
+      },
+      "titleKind": "FIXED",
+      "titleColor": "#C2552B"
+    },
+    {
+      "id": "mar_maszok",
+      "image": "mar_maszok.png",
+      "version": 1,
+      "active": true,
+      "free": false,
+      "order": 37,
+      "name": {
+        "hu": "Már mászom",
+        "de": "Ich krabble",
+        "en": "Crawling"
+      },
+      "title": {
+        "hu": "Már mászom!",
+        "de": "Ich krabble schon!",
+        "en": "I can crawl!"
+      },
+      "category": {
+        "hu": "Első alkalmak",
+        "de": "Erste Male",
+        "en": "Firsts"
+      },
+      "titleKind": "FIXED",
+      "titleColor": "#6A4C93"
+    },
+    {
+      "id": "elso_husvet",
+      "image": "elso_husvet.png",
+      "version": 1,
+      "active": true,
+      "free": true,
+      "order": 70,
+      "name": {
+        "hu": "Első húsvét",
+        "de": "Erstes Ostern",
+        "en": "First Easter"
+      },
+      "title": {
+        "hu": "Első húsvétom!",
+        "de": "Mein erstes Ostern!",
+        "en": "My first Easter!"
+      },
+      "category": {
+        "hu": "Ünnepek",
+        "de": "Feiertage",
+        "en": "Holidays"
+      },
+      "titleKind": "FIXED",
+      "titleColor": "#4F8A3A"
+    },
+    {
+      "id": "elso_nyar",
+      "image": "elso_nyar.png",
+      "version": 1,
+      "active": true,
+      "free": false,
+      "order": 75,
+      "name": {
+        "hu": "Első nyár",
+        "de": "Erster Sommer",
+        "en": "First summer"
+      },
+      "title": {
+        "hu": "Első nyaram!",
+        "de": "Mein erster Sommer!",
+        "en": "My first summer!"
+      },
+      "category": {
+        "hu": "Ünnepek",
+        "de": "Feiertage",
+        "en": "Holidays"
+      },
+      "titleKind": "FIXED",
+      "titleColor": "#1A7F9A"
+    },
+    {
+      "id": "elso_ovinap",
+      "image": "elso_ovinap.png",
+      "version": 1,
+      "active": true,
+      "free": false,
+      "order": 80,
+      "name": {
+        "hu": "Első ovis nap",
+        "de": "Erster Kita-Tag",
+        "en": "First day at nursery"
+      },
+      "title": {
+        "hu": "Első ovis napom!",
+        "de": "Mein erster Kita-Tag!",
+        "en": "My first day at nursery!"
+      },
+      "category": {
+        "hu": "Óvoda",
+        "de": "Kindergarten",
+        "en": "Nursery"
+      },
+      "titleKind": "FIXED",
+      "titleColor": "#B5651D"
+    },
+    {
+      "id": "nagyteso",
+      "image": "nagyteso.png",
+      "version": 1,
+      "active": true,
+      "free": false,
+      "order": 90,
+      "name": {
+        "hu": "Nagytesó lettem",
+        "de": "Großes Geschwister",
+        "en": "Big sibling"
+      },
+      "title": {
+        "hu": "Nagytesó lettem!",
+        "de": "Ich bin jetzt groß!",
+        "en": "I'm a big sibling!"
+      },
+      "category": {
+        "hu": "Család",
+        "de": "Familie",
+        "en": "Family"
+      },
+      "titleKind": "FIXED",
+      "titleColor": "#3A3F9E"
+    }
+  ]
+}
