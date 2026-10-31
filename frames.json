@@ -29,7 +29,8 @@
         0.796,
         0.776,
         0.917
-      ]
+      ],
+      "thumb": "thumbs/hazaerkeztem.webp"
     },
     {
       "id": "szaz_napos",
@@ -60,7 +61,8 @@
         0.796,
         0.776,
         0.917
-      ]
+      ],
+      "thumb": "thumbs/szaz_napos.webp"
     },
     {
       "id": "elso_mosoly",
@@ -85,7 +87,8 @@
         "en": "Firsts"
       },
       "titleKind": "FIXED",
-      "titleColor": "#C27C0E"
+      "titleColor": "#C27C0E",
+      "thumb": "thumbs/elso_mosoly.webp"
     },
     {
       "id": "elso_szo",
@@ -110,7 +113,8 @@
         "en": "Firsts"
       },
       "titleKind": "FIXED",
-      "titleColor": "#2A9D8F"
+      "titleColor": "#2A9D8F",
+      "thumb": "thumbs/elso_szo.webp"
     },
     {
       "id": "mar_ulok",
@@ -135,7 +139,8 @@
         "en": "Firsts"
       },
       "titleKind": "FIXED",
-      "titleColor": "#C2552B"
+      "titleColor": "#C2552B",
+      "thumb": "thumbs/mar_ulok.webp"
     },
     {
       "id": "mar_maszok",
@@ -160,7 +165,8 @@
         "en": "Firsts"
       },
       "titleKind": "FIXED",
-      "titleColor": "#6A4C93"
+      "titleColor": "#6A4C93",
+      "thumb": "thumbs/mar_maszok.webp"
     },
     {
       "id": "elso_husvet",
@@ -185,7 +191,8 @@
         "en": "Holidays"
       },
       "titleKind": "FIXED",
-      "titleColor": "#4F8A3A"
+      "titleColor": "#4F8A3A",
+      "thumb": "thumbs/elso_husvet.webp"
     },
     {
       "id": "elso_nyar",
@@ -210,7 +217,8 @@
         "en": "Holidays"
       },
       "titleKind": "FIXED",
-      "titleColor": "#1A7F9A"
+      "titleColor": "#1A7F9A",
+      "thumb": "thumbs/elso_nyar.webp"
     },
     {
       "id": "elso_ovinap",
@@ -235,7 +243,8 @@
         "en": "Nursery"
       },
       "titleKind": "FIXED",
-      "titleColor": "#B5651D"
+      "titleColor": "#B5651D",
+      "thumb": "thumbs/elso_ovinap.webp"
     },
     {
       "id": "nagyteso",
@@ -260,7 +269,8 @@
         "en": "Family"
       },
       "titleKind": "FIXED",
-      "titleColor": "#3A3F9E"
+      "titleColor": "#3A3F9E",
+      "thumb": "thumbs/nagyteso.webp"
     }
   ]
 }
